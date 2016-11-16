@@ -1,0 +1,15 @@
+
+.innerTable {
+    border-collapse: collapse;
+}
+
+.innerTable th, .innerTable td {
+    padding-left: 0;
+}
+
+.adTitle {
+    font-size: x-large;
+    margin-top: 3.6em;
+    margin-bottom: 1.2em;
+    text-decoration: underline;
+}
